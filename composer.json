@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "Kromian1\\HexletPhp\\": "src/"
-        }
+        },
+	"files": [
+	    "src/Runner.php"
+	]
     },
     "authors": [
         {
