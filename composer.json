@@ -13,5 +13,7 @@
             "email": "mok1408@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^12.28"
+    }
 }
